@@ -1,0 +1,37 @@
+
+.Q{
+    background-color: black;
+    color: white;
+    display: grid;
+    text-align: start;
+   
+}button{
+    text-align: start;
+    background-color: rgba(128, 128, 128, 0.381);
+    color: white;
+    text-align: start;
+}
+
+#mail{
+    background-color: transparent;
+    text-decoration: white;
+    color: white;
+    padding: 0%;
+    height: 56.8px;
+    width: 366.8px;
+}
+    body{
+        background-color: black;
+        
+    }
+    .container{
+        width: 100%;
+        min-width: 100%;
+    }
+    .accordion{
+        background-color: gray;
+        color: white;
+    }
+  .accordion-body{
+    background-color: grey;
+  }
